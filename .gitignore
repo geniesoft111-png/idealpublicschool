@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+hasanpura_pages/
+hasanpura_site.html
+pdf_extracted/
+template_unpacked/
+verification_screenshots/
+generate_*.py
+verify_*.py
+*.zip
+New Doc*.pdf
+.DS_Store
