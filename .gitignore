@@ -5,8 +5,16 @@ hasanpura_site.html
 pdf_extracted/
 template_unpacked/
 verification_screenshots/
+verification_shots/
+debug_shots/
+full_screenshots_*/
 generate_*.py
 verify_*.py
+inspect_*.py
+test_*.py
+apply_site_fixes.py
+prepare_authentic_images.py
 *.zip
 New Doc*.pdf
 .DS_Store
+
