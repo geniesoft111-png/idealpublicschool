@@ -690,7 +690,7 @@ textarea {
 }
 .mean-container a.meanmenu-reveal span {background-color: #2C2B5E}
 .mean-container .mean-nav {
-    border-right: 1px solid rgba(0, 0, 0, 0.5);
+    border: none;
     margin-top: 0;
 }
 .headroom {
@@ -3244,8 +3244,10 @@ textarea {
         padding: 0 !important;
     }
     .mean-container .mean-nav {
-        margin-top: 8px !important;
-        margin-bottom: 15px !important;
+        margin: 0 !important;
+        border: none !important;
+        box-shadow: none !important;
+        background: transparent !important;
     }
     .choose-content {
         margin-right: 0;

@@ -47,14 +47,22 @@ a.meanmenu-reveal {
 	margin-top: 3px;
 }
 .mean-container .mean-nav {
-    background: #ffffff none repeat scroll 0 0;
+    background: transparent;
     float: left;
-    margin-top: 15px;
+    margin: 0;
+    padding: 0;
     width: 100%;
+    border: none;
+    box-shadow: none;
+}
+.mean-container .mean-nav > ul {
+    background: #ffffff none repeat scroll 0 0;
     border-radius: 4px;
     box-shadow: 0 10px 30px rgba(0, 0, 0, 0.12);
     border: 1px solid rgba(52, 38, 29, 0.15);
     overflow: hidden;
+    margin-top: 12px;
+    margin-bottom: 15px;
 }
 .mean-container .mean-nav ul {
 	padding: 0;
