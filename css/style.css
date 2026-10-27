@@ -3169,7 +3169,7 @@ textarea {
     .header-area.two {
         background: #ffffff !important;
         box-shadow: none !important;
-        border-bottom: 1px solid rgba(52, 38, 29, 0.08) !important;
+        border: none !important;
     }
     .header-area.two .logo {
         padding: 14px 0 !important;
