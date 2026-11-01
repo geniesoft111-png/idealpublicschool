@@ -18,7 +18,7 @@
 	jQuery MeanMenu 
 --------------------------------------*/
 	$('.main-menu nav').meanmenu({
-		meanScreenWidth: "767",
+		meanScreenWidth: "991",
 		meanMenuContainer: '.mobile-menu'
 	});
     

@@ -30,7 +30,7 @@
 
 /* Normal desktop :992px. */
 @media (min-width: 992px) and (max-width: 1200px) {
-    .header-area.two .main-menu nav > ul > li > a{font-size: 14px}
+    .header-area.two .main-menu nav > ul > li > a{font-size: 13px}
     .slide-content h3 {font-size: 40px}
     .slide-content h2 {font-size: 45px; line-height: 45px}
     .event-content-right a {margin-right: 10px; padding: 8px 10px}
@@ -42,7 +42,7 @@
     .single-widget h3 {font-size: 18px}
     .single-widget.pr-60 {padding-right: 0}
     .single-widget p {margin-bottom: 16px}
-    .header-area.two .main-menu ul li a {padding: 0 10px}
+    .header-area.two .main-menu ul li a {padding: 0 7px}
     .service-area h3 {font-size: 16px}
     .about-content h2 {margin-top: 35px}
     .notice-area.two .notice-left {padding: 26px 15px}
@@ -104,8 +104,8 @@
     .event-area.two .event-content h4 {margin-bottom: 13px}
     .notice-area.three .notice-left {padding: 34px 27px}
     .about-content a {margin-top: 15px}
-    .header-area.two .main-menu nav > ul{display: flex;}
-    .header-area.two .main-menu nav > ul > li > a {font-size: 12px; line-height: 111px}
+    .main-menu {display: none !important;}
+    .mobile-menu {display: block !important;}
     .blog-sidebar.right{margin-left: 0}
     .section-title h2 {font-size: 26px;}
     #blog > img {width: auto}
