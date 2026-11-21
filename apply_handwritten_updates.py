@@ -50,7 +50,7 @@ new_about_teachers = '''<div class="row">
                             </div>
                         </div>
                     </div>
-                    <!-- Leader 2: Rumi Kabir (Management & Administration) -->
+                    <!-- Leader 2: Rumi Kabir (Coordinator) -->
                     <div class="col-lg-3 col-md-6">
                         <div class="single-teacher">
                             <div class="single-teacher-img">
@@ -58,7 +58,7 @@ new_about_teachers = '''<div class="row">
                             </div>
                             <div class="single-teacher-content text-center">
                                 <h2><a href="about.html">Rumi Kabir</a></h2>
-                                <h4>Management &amp; Administration</h4>
+                                <h4>Coordinator</h4>
                                 <ul>
                                     <li><a href="#"><i class="fa fa-facebook"></i></a></li>
                                     <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
@@ -150,7 +150,7 @@ new_card2 = '''                    <div class="col-lg-3 col-md-6">
                             </div>
                             <div class="single-teacher-content text-center">
                                 <h2><a href="about.html">Rumi Kabir</a></h2>
-                                <h4>Management &amp; Administration</h4>
+                                <h4>Coordinator</h4>
                                 <ul>
                                     <li><a href="#"><i class="fa fa-facebook"></i></a></li>
                                     <li><a href="mailto:idealschool4938@gmail.com"><i class="fa fa-envelope"></i></a></li>
