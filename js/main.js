@@ -118,7 +118,7 @@
 --------------------------------------*/
     if ($('.floating-whatsapp').length === 0) {
         $('body').append(
-            '<a href="https://wa.me/919934991694?text=Hello%20Ideal%20Public%20School%20Aranda,%20I%20have%20an%20inquiry." class="floating-whatsapp" target="_blank" rel="noopener noreferrer" title="Chat with Ideal Public School on WhatsApp" aria-label="Contact Ideal Public School on WhatsApp">' +
+            '<a href="https://wa.me/919262683463?text=Hello%20Ideal%20Public%20School%20Aranda,%20I%20have%20an%20inquiry." class="floating-whatsapp" target="_blank" rel="noopener noreferrer" title="Chat with Ideal Public School on WhatsApp" aria-label="Contact Ideal Public School on WhatsApp">' +
             '<span class="whatsapp-pulse"></span>' +
             '<i class="fa fa-whatsapp"></i>' +
             '</a>'
