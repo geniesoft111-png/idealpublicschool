@@ -88,7 +88,7 @@ new_about_teachers = '''<div class="row">
                     <div class="col-lg-3 col-md-6">
                         <div class="single-teacher">
                             <div class="single-teacher-img">
-                                <a href="teacher.html"><img src="img/teacher/teacher10.jpg" alt="Amarjeet Kumar"></a>  
+                                <a href="teacher.html"><img src="img/teacher/dummy-avatar.svg" alt="Amarjeet Kumar"></a>  
                             </div>
                             <div class="single-teacher-content text-center">
                                 <h2><a href="teacher.html">Amarjeet Kumar</a></h2>
