@@ -54,7 +54,7 @@ new_about_teachers = '''<div class="row">
                     <div class="col-lg-3 col-md-6">
                         <div class="single-teacher">
                             <div class="single-teacher-img">
-                                <a href="about.html"><img src="img/teacher/default-avatar.svg" alt="Rumi Kabir"></a>  
+                                <a href="about.html"><img src="img/teacher/teacher2.jpg" alt="Rumi Kabir"></a>  
                             </div>
                             <div class="single-teacher-content text-center">
                                 <h2><a href="about.html">Rumi Kabir</a></h2>
@@ -146,7 +146,7 @@ old_card2 = '''                    <div class="col-lg-3 col-md-6">
 new_card2 = '''                    <div class="col-lg-3 col-md-6">
                         <div class="single-teacher mb-45">
                             <div class="single-teacher-img">
-                                <a href="about.html"><img src="img/teacher/default-avatar.svg" alt="Rumi Kabir"></a>  
+                                <a href="about.html"><img src="img/teacher/teacher2.jpg" alt="Rumi Kabir"></a>  
                             </div>
                             <div class="single-teacher-content text-center">
                                 <h2><a href="about.html">Rumi Kabir</a></h2>
