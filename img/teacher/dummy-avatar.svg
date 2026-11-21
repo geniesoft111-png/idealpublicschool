@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="270" height="270" viewBox="0 0 270 270">
+  <defs>
+    <linearGradient id="dummyBg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#f5f2ed"/>
+      <stop offset="100%" stop-color="#e5dfd5"/>
+    </linearGradient>
+  </defs>
+  <!-- Background -->
+  <rect width="270" height="270" fill="url(#dummyBg)"/>
+  
+  <!-- Outer Frame -->
+  <rect x="1" y="1" width="268" height="268" fill="none" stroke="#d5ccc0" stroke-width="2"/>
+  
+  <!-- Teacher Silhouette -->
+  <g fill="#9c8f82" transform="translate(135, 115)">
+    <!-- Head -->
+    <circle cx="0" cy="-25" r="42"/>
+    <!-- Torso and Shoulders -->
+    <path d="M -65 65 C -65 24 -40 14 0 14 C 40 14 65 24 65 65 C 65 85 -65 85 -65 65 Z"/>
+  </g>
+  
+  <!-- Subtitle Badge -->
+  <g fill="#2c2b5e" opacity="0.75" transform="translate(135, 230)">
+    <text font-family="'Open Sans', sans-serif" font-size="11" font-weight="600" text-anchor="middle" fill="#6e6255" letter-spacing="1.5">FACULTY</text>
+  </g>
+</svg>
