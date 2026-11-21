@@ -50,14 +50,14 @@ new_about_teachers = '''<div class="row">
                             </div>
                         </div>
                     </div>
-                    <!-- Leader 2: Archana Kumari (Management & Administration) -->
+                    <!-- Leader 2: Rumi Kabir (Management & Administration) -->
                     <div class="col-lg-3 col-md-6">
                         <div class="single-teacher">
                             <div class="single-teacher-img">
-                                <a href="about.html"><img src="img/teacher/archana-kumari.jpg" alt="Archana Kumari"></a>  
+                                <a href="about.html"><img src="img/teacher/default-avatar.svg" alt="Rumi Kabir"></a>  
                             </div>
                             <div class="single-teacher-content text-center">
-                                <h2><a href="about.html">Archana Kumari</a></h2>
+                                <h2><a href="about.html">Rumi Kabir</a></h2>
                                 <h4>Management &amp; Administration</h4>
                                 <ul>
                                     <li><a href="#"><i class="fa fa-facebook"></i></a></li>
@@ -126,7 +126,7 @@ with open('teacher.html', 'r', encoding='utf-8') as f:
 # Update Arshi Kabir role
 t_content = t_content.replace('<h4>Director</h4>', '<h4>Founder &amp; Director</h4>')
 
-# Update Card 2 to Archana Kumari
+# Update Card 2 to Rumi Kabir
 old_card2 = '''                    <div class="col-lg-3 col-md-6">
                         <div class="single-teacher mb-45">
                             <div class="single-teacher-img">
@@ -146,10 +146,10 @@ old_card2 = '''                    <div class="col-lg-3 col-md-6">
 new_card2 = '''                    <div class="col-lg-3 col-md-6">
                         <div class="single-teacher mb-45">
                             <div class="single-teacher-img">
-                                <a href="about.html"><img src="img/teacher/archana-kumari.jpg" alt="Archana Kumari"></a>  
+                                <a href="about.html"><img src="img/teacher/default-avatar.svg" alt="Rumi Kabir"></a>  
                             </div>
                             <div class="single-teacher-content text-center">
-                                <h2><a href="about.html">Archana Kumari</a></h2>
+                                <h2><a href="about.html">Rumi Kabir</a></h2>
                                 <h4>Management &amp; Administration</h4>
                                 <ul>
                                     <li><a href="#"><i class="fa fa-facebook"></i></a></li>
